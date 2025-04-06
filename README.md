@@ -13,8 +13,7 @@ This Python script processes a text file to compute and count the frequency of e
 2. Features
 3. How It Works
 4. Usage Intructions
-5. Example Output
-6. Future Improvements
+5. Future Improvements
 
 ## Introduction
 
@@ -42,8 +41,6 @@ This tool is particularly useful for analyzing text files, identifying frequent 
 2. Enter the name of the text file to process when prompted.
 3. Enter the desired name for the output file.
 4. The program will process the file and save the results to the specified output file.
-
-## Example
 
 ## Future Improvements
 - Add support for processing multiple files simultaneously.
