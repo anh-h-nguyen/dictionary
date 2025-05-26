@@ -1,4 +1,4 @@
-# Dictionary
+# 📖 Dictionary
 ## Technologies Used
 - Programming Language: Python
 - Libraries: string
