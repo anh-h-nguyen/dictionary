@@ -31,9 +31,9 @@ This tool is particularly useful for analyzing text files, identifying frequent 
 - Calculates and displays the total number of unique words in the text.
 
 ## How It Works
-1. Reading and cleaning the data
+1. Reading and Cleaning the Data
 2. Sorting and Formatting
-3. user Interaction
+3. User Interaction
 4. Main Functionality
 
 ## Usage Instructions
